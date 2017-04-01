@@ -960,7 +960,6 @@ ul.personal-info li {
 }
 .map-container{
 	position: relative;
-	height: 305px;
 	overflow: hidden;
 	margin-left: -14px;
 	margin-right: -14px;
